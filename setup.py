@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name='savepagenow',
+    name='webcitation',
     version='0.0.1',
     description='A simple Python wrapper for the webcitation.org capturing service',
     author='Ben Welsh',
