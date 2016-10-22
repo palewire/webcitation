@@ -1,0 +1,4 @@
+[run]
+include =
+    webcitation/__init__.py
+    webcitation/api.py
