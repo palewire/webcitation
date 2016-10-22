@@ -3,8 +3,8 @@ from setuptools import setup
 
 setup(
     name='savepagenow',
-    version='0.0.7',
-    description='A simple Python wrapper for the webcitation.org capturing service.',
+    version='0.0.1',
+    description='A simple Python wrapper for the webcitation.org capturing service',
     author='Ben Welsh',
     author_email='ben.welsh@gmail.com',
     url='http://www.github.com/pastpages/webcitation/',
