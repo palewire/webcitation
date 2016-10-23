@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='webcitation',
-    version='0.0.1',
+    version='0.0.2',
     description='A simple Python wrapper for the webcitation.org capturing service',
     author='Ben Welsh',
     author_email='ben.welsh@gmail.com',
