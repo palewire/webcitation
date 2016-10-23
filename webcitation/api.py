@@ -10,7 +10,7 @@ from six.moves.urllib.parse import urljoin
 
 def capture(
     target_url,
-    user_agent="savepagenow (https://github.com/pastpages/savepagenow)"
+    user_agent="webcitation (https://github.com/pastpages/webcitation)"
 ):
     """
     Archives the provided URL using the webcitation.org capturing service.
