@@ -1,3 +1,5 @@
+> This repository has been archived because webcitation.org is no longer accepting archiving requests.
+
 # webcitation
 
 A simple Python wrapper for the [webcitation.org](http://www.webcitation.org/) capturing service.
